@@ -14,7 +14,7 @@ We are going to start with the iris demo from [Rpubs.com](https://rpubs.com/moer
 
 These steps will need to be completed to receive full credit. If there is time, there are some additional edits we will make to give it some extra polish.
 
-* Set up a repository using [this GitHub Classroom link]().
+* Set up a repository using the GitHub Classroom link provided in class.
 
 * Start by creating a quarto document and replicating the information and formatting found at <https://rpubs.com/moeransm/intro-iris> (export HTML code). Be sure to leave a note attributing the original authors.
 
@@ -28,7 +28,7 @@ These steps will need to be completed to receive full credit. If there is time, 
 * Push your changes to GitHub.
 
   * Open your repo in the browser.
-  * Click the `+` button right next to the green `<> Code` button and select `Upload files`.
+  * Click the `+` button just to the left of the green `<> Code` button and select `Upload files`.
   * Drag and drop your `index.qmd` file, `index.html` file, and `index_files` directory into the window.
   
 * Configure your repository to publish your webpage using [GitHub Pages](https://docs.github.com/en/pages/quickstart).
